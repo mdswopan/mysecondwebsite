@@ -1,1 +1,1 @@
-https://github.com/mdswopan/mysecondwebsite.git
+https://mdswopan.github.io/mysecondwebsite/
